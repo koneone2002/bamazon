@@ -13,8 +13,10 @@ If the user selects an item and a quantity that does not have available stock, t
 
 
 *** npm packages used:
-inquirer
-mysql
+inquirergi
 cli-table
 colors
+
+check out my video walkthrough at:
+https://drive.google.com/file/d/1e0dthApU-UhN-CJmDuHhnWnElJp-64_i/view
 
