@@ -1,0 +1,28 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon store fron",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "colors": "^1.3.1",
+    "init": "^0.1.2",
+    "inquirer": "^6.0.0",
+    "mysql": "^2.16.0",
+    "npm": "^6.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koneone2002/bamazon.git"
+  },
+  "author": "katie oneill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koneone2002/bamazon/issues"
+  },
+  "homepage": "https://github.com/koneone2002/bamazon#readme"
+}
